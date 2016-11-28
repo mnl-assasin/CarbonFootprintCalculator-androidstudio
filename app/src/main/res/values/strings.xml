@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carbon Footprint Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="entry">entry</string>
+
+    <string-array name="history_filter">
+        <item>All</item>
+        <item>Household Only</item>
+        <item>Vehicles Only</item>
+    </string-array>
+    <string-array name="list_appliances">
+        <item>Aircon</item>
+        <item>Computer</item>
+        <item>Electric Fan</item>
+        <item>Electric Kettle</item>
+        <item>Lights</item>
+        <item>Microwave</item>
+        <item>Oven</item>
+        <item>Television</item>
+    </string-array>
+    <string-array name="list_cavite">
+        <item>Alfonso</item>
+        <item>Amadeo</item>
+        <item>Bacoor</item>
+        <item>Carmona</item>
+        <item>Cavite City</item>
+        <item>Dasmariñas</item>
+        <item>General Emilio Aguinaldo</item>
+        <item>General Mariano Alvarez</item>
+        <item>General Trias</item>
+        <item>Imus</item>
+        <item>Indang</item>
+        <item>Kawit</item>
+        <item>Magallanes</item>
+        <item>Maragondon</item>
+        <item>Mendez</item>
+        <item>Naic</item>
+        <item>Noveleta</item>
+        <item>Rosario</item>
+        <item>Silang</item>
+        <item>Tagaytay</item>
+        <item>Tanza</item>
+        <item>Trece Martires</item>
+        <item>Ternate</item>
+    </string-array>
+    <string-array name="list_vehicle_type">
+        <item>Small (Compacts eg. Wigo, Mirage, Eon, Picanto)</item>
+        <item>Mid-Size (Sedan eg. Vios, Lancer, Civic, City)</item>
+        <item>MiniVan (SUVs eg. Fortuner, Montero, Ecosport)</item>
+        <item>Offroader (4x4 pickups and trucks and bigger)</item>
+    </string-array>
+    <string-array name="year_model">
+        <item>1993 and earlier model</item>
+        <item>1994</item>
+        <item>1995</item>
+        <item>1996</item>
+        <item>1997</item>
+        <item>1998</item>
+        <item>1999</item>
+        <item>2000</item>
+        <item>2001</item>
+        <item>2002</item>
+        <item>2003</item>
+        <item>2004</item>
+        <item>2005</item>
+        <item>2006</item>
+        <item>2007</item>
+        <item>2008 - to present</item>
+    </string-array>
+
+
+    <string name="google_api_key">AIzaSyCn4nVoKvMNh1mt2U_ZhYXfCV7m-xtloD0</string>
+
+</resources>
